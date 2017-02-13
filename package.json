@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-common-video": "latest",
+    "gulp-connect": "latest",
+    "protractor-http-mock-legacy": "latest"
+  }
+}
