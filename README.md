@@ -9,4 +9,7 @@ It has a simple and responsive UI based on Twitter Bootstrap and works on a wide
 
 ## Install
 
-The application uses bower to maintain dependencies. Run `bower install` after cloning the repository.
+The application uses bower to maintain dependencies. Run `npm install`,`bower install` after cloning the repository.
+
+## Run
+The application run with `gulp server`
